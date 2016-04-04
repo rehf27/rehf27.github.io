@@ -124,3 +124,5 @@ servers:
     address: world2server:25565
     restricted: false
 ```
+
+Thanks for reading!
