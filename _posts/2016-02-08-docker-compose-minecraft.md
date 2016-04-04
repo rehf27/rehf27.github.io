@@ -3,7 +3,7 @@ layout: post
 title: Docker Compose and Minecraft
 categories: [technology, gaming]
 tags: [docker, docker-compose, minecraft, spigot, bungeecord]
-description: Using Docker to run Minecraft servers
+description: Running two or more Minecraft servers becomes simplified with Docker Compose, Spigot, and Bungeecord.
 comments: true
 ---
 
