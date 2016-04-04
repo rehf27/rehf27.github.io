@@ -7,6 +7,8 @@ description: Running two or more Minecraft servers becomes simplified with Docke
 comments: true
 ---
 
+Running two or more Minecraft servers becomes simplified with Docker Compose, Spigot, and Bungeecord!
+
 ## A coming together of interests
 
 My kids introduced me to Minecraft a couple years back, and it really struck a nerve that propelled into borderline obsession.  I setup a family SMP (aka Survival Multiplayer) server, and began lots of small projects with Minecraft at the center.
