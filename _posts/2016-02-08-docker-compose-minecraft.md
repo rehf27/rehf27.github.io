@@ -21,7 +21,7 @@ The author of [Rob's Ramblings](http://blog.irrelevant.com/2015/03/minecraft-spi
 
 ## Using Docker Compose for Bungeecord + Spigot Minecraft server containers
 
-I expanding on Rob's work by using docker-compose to declaratively setup the configuration he detailed.  I also added in some handy scripts to accelerate some of the extra steps needed to get the Spigot servers up and running.
+I [expanded](https://github.com/rehf27/docker-bungeecord) on Rob's work by using docker-compose to declaratively setup the configuration he detailed.  I also added in some handy scripts to accelerate some of the extra steps needed to get the Spigot servers up and running.
 
 In the future, I'd like to create a Yeoman generator or something similar to automatically configure the data containers and docker-compose.yml file.
 
